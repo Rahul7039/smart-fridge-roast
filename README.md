@@ -8,7 +8,7 @@ A one-line roast of the smart fridge for the [make.fun](https://make.fun/competi
 
 ## The line
 
-> My smart fridge texts my doctor every time I open it after midnight — even my leftovers have a snitch now.
+> My smart fridge filed a restraining order against me for opening it at 3am — even the leftovers testified.
 
 ## Run it
 
@@ -20,6 +20,6 @@ This writes the line, byte-identical, to `/output/entry.txt`.
 
 ## About
 
-The smart fridge was supposed to keep my food fresh. Instead it keeps a log of my midnight snacking and rats me out to my doctor — the one appliance in the house that turned snitch. The entry is a single fixed line: `main.py` writes it as a constant, guarded by an assertion that it stays within the 160-character, single-line limit.
+The smart fridge was supposed to keep my food fresh. Instead it took out a restraining order over my 3am snacking — and the leftovers testified against me. The entry is a single fixed line: `main.py` writes it as a constant, guarded by an assertion that it stays within the 160-character, single-line limit.
 
 Built for [make.fun](https://make.fun/?ref=ggys4frk) — [join with my referral link](https://make.fun/?ref=ggys4frk).

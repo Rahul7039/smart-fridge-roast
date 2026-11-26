@@ -4,7 +4,7 @@ Writes the chosen roast line, byte-identical, to /output/entry.txt.
 The line is a fixed constant; it is never generated or paraphrased.
 """
 
-LINE = "My smart fridge texts my doctor every time I open it after midnight — even my leftovers have a snitch now."
+LINE = "My smart fridge filed a restraining order against me for opening it at 3am — even the leftovers testified."
 
 assert 1 <= len(LINE) <= 160, "line must be 1-160 characters"
 assert "\n" not in LINE and "\r" not in LINE, "line must be a single line"
